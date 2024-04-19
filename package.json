@@ -4,9 +4,9 @@
     "Mark Cavage <mcavage@gmail.com>",
     "Cody Peter Mello <cody.mello@joyent.com>"
   ],
-  "name": "@ddmc/ldapjs-dn",
+  "name": "ldapjs-dn-fork",
   "homepage": "https://github.com/ldapjs/dn",
-  "description": "API for handling LDAP distinguished name strings",
+  "description": "解决中文问题",
   "version": "1.1.0",
   "license": "MIT",
   "repository": {
